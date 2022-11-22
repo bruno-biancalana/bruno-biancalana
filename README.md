@@ -1,4 +1,5 @@
-## Olá, eu sou o Bruno! 😉
+<h1 text align="center"> Olá, eu sou o Bruno! 😉 </h1><br>
+  
 <div align="center">
   <a href="https://github.com/bruno-biancalana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-biancalana&show_icons=true&theme=darkblue&include_all_commits=true&count_private=true"/>
