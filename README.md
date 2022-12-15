@@ -9,7 +9,7 @@
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.fsdu17-1.fna.fbcdn.net/v/t39.30808-1/302190253_2727454700718770_7009969728492502128_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=DglK2-yhZOsAX_u8hTq&_nc_ht=scontent.fsdu17-1.fna&oh=00_AfD6XBFlEhowGKiVb6kASq2HtTE9mbSgrpSwc3pzC1TG9g&oe=6381FFFA">
+  <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://scontent.fsdu17-1.fna.fbcdn.net/v/t39.30808-1/302190253_2727454700718770_7009969728492502128_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=DglK2-yhZOsAX_u8hTq&_nc_ht=scontent.fsdu17-1.fna&oh=00_AfD6XBFlEhowGKiVb6kASq2HtTE9mbSgrpSwc3pzC1TG9g&oe=6381FFFA">
 </div>
   
   ##
