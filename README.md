@@ -9,7 +9,6 @@
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQEDbekJlcWPiA/profile-displayphoto-shrink_800_800/0/1661464130369?e=1677110400&v=beta&t=NR5ubo1uuYgg-BlYerp9yu1o41Ly8bfl5aYTgk5fKY8">
 </div>
   
   ##
